@@ -176,12 +176,6 @@
     }
 }
   
-  .menu-item {
-      height: 20px; /* Altura mais compacta */
-      font-size: 0.55em; /* Fonte menor */
-      padding: 0 3px; /* Padding ainda menor */
-  }
-  
     /* Estilo das Runas */
     .runas-container {
         flex-direction: row;

@@ -272,7 +272,7 @@
         var(--secondary),
         transparent
     );
-    animation: shine 4s infinite;
+    /*animation: shine 4s infinite; */
 }
 
 @keyframes shine {
